@@ -17,3 +17,4 @@ Using your preferred language, write a function that take an integer as an argum
 ### Question II
 
 Make a website that resemble the design below
+<img width="775" alt="Screen Shot 2022-11-22 at 09 44 29" src="https://user-images.githubusercontent.com/44426710/203256544-98907d35-4435-45c1-b2f5-5938ea6517db.png">
