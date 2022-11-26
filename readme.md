@@ -3,7 +3,7 @@
 ### Instructions
 
 1. Create an account on [github](www.github.com) if you don't have one
-2. Create an emply repo and make it public,
+2. Create an empty repo and make it public, [link](https://docs.github.com/en/get-started/quickstart/create-a-repo) to create a repo
 3. Select one of the two questions below and push it on the repo
 
 ### Question I
